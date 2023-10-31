@@ -11,6 +11,7 @@ git clone https://github.com/aditmulyatama/proyek_akhir_dicoding_analisis_data.g
 - install requirements yang dibutuhkan
 
 ```shell
+pip install streamlit
 pip install -r requirements.txt
 ```
 
