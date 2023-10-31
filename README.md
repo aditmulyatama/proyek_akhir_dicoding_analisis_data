@@ -20,3 +20,6 @@ pip install -r requirements.txt
 ```shell
 streamlit run dashboard/main.py
 ```
+
+bisa juga dengan mengunjungi laman ini :
+[Bike Rental Analysis](https://bike-rental-analysis.streamlit.app/)
