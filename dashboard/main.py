@@ -88,12 +88,6 @@ sns.barplot(x='season', y='cnt', data=daily_bike_rentals_vs_season_df, hue='seas
 ax.set(xlabel='Season', ylabel='Number of Bike Rentals')
 st.pyplot(fig)
 
-st.write("## Conclusion")
-st.write("Based on the analysis, we can make the following conclusions:")
-st.write("- There is a strong positive correlation between temperature and the number of bike rentals.")
-st.write("- More bikes are rented on working days compared to non-working days.")
-st.write("- Bike rentals increased from 2011 to 2012.")
-st.write("- The highest number of bike rentals occurs during the fall season.")
 
 st.caption("Copyright (C) Aditya Dharma Mulyatama")
 
